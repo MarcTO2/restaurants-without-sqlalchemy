@@ -61,6 +61,9 @@ reviewed_restaurants = customer1.restaurants()
 # Getting restaurant's average star rating
 average_rating = restaurant1.average_star_rating()
 
-License
+```
+
+
+# License
 This project is licensed under the MIT License.
-Absalom Marcel
+Author Absalom Marcel
